@@ -42,7 +42,7 @@ To be decided
 
 9. Github Link:
 
-https://github.com/ComputerVision763-2023/what/
+https://github.com/ComputerVision763/openproject-group29
 
 10. Form for submitting proposal
 https://docs.google.com/forms/d/e/1FAIpQLSeg1XGlWyd2qPlmsVaPCkGazW3_QabZHD7S6z4lDleVo3PcxA/viewform
