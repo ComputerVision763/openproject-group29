@@ -1,17 +1,17 @@
-1. Group Screen Name: 
+1. Group Screen Name: Vision
 
 2. Which external person (human resource) other than group members or
-TA I consulted: 
+TA I consulted: None
 
 
 3. What resources I used on the Internet:
-a. 
-b.
+a. https://medium.com/mlearning-ai/real-time-hand-gesture-recognition-2bff427a6a89
+b. https://www.hindawi.com/journals/tswj/2014/267872/
+c. https://github.com/akshaybahadur21/HandMovementTracking
 
 3b. chatGPT or other similar resources used:
 Yes
 Link to pdf appears here
-
 
 
 4. Honor Code:
@@ -19,17 +19,17 @@ Link to pdf appears here
 I pledge on my honour (and all the things my mother taught me) that I
 have not given or received any unauthorized assistance on this
 assignment or any previous task.  
-Signed by 
+Signed by 200020112
 
 5. If I am awarded 90 marks for this task, my perception of how much
 the breakdown is:
 
-Question | My Roll   | Partner   | Replace Partner by Number|
-	 |  10%      |    20%    |    0%   |
+Question | 2000201112   | 200110121 | Replace Partner by Number|
+	 |  100%      |    100%    |    0%   |
 
 
 6.  Group Id:
-Enter here
+29
 
 7. Latedays taken:
 Checkpoint| Due     | Submitted | Lateday
