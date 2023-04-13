@@ -35,7 +35,7 @@ Question | 2000201112   | 200110121 | Replace Partner by Number|
 Checkpoint| Due     | Submitted | Lateday
 1         | 0x/3/23 |      a/b/c|
 2         | 0y/3/23 |
-3         | 0z/4/23 |
+3         | 09/4/23 | a | 13/4/23
 
 8. Link to Video Presentation:
 To be decided
