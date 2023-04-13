@@ -8,6 +8,7 @@ TA I consulted: None
 a. https://medium.com/mlearning-ai/real-time-hand-gesture-recognition-2bff427a6a89
 b. https://www.hindawi.com/journals/tswj/2014/267872/
 c. https://github.com/akshaybahadur21/HandMovementTracking
+d. https://github.com/google/mediapipe
 
 3b. chatGPT or other similar resources used:
 Yes
