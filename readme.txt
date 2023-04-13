@@ -39,10 +39,9 @@ Checkpoint| Due     | Submitted | Lateday
 3         | 09/4/23 | a | 13/4/23
 
 8. Link to Video Presentation:
-To be decided
+https://drive.google.com/drive/folders/1v47y36X_uOkYLG5fy5bIZLrQeFCUSy4Z?usp=sharing
 
 9. Github Link:
-
 https://github.com/ComputerVision763/openproject-group29
 
 10. Form for submitting proposal
